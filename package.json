@@ -1,6 +1,6 @@
 {
   "name": "chores-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of utility functions to automate common household and programming chores.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
