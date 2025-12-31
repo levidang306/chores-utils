@@ -8,3 +8,4 @@ coverage/
 *.tsbuildinfo
 .npmrc
 chores-utils-1.0.0.tgz
+GITHUB_SETUP.md

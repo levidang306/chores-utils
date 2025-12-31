@@ -1,18 +1,18 @@
 # chores-utils
 
 [![npm version](https://img.shields.io/npm/v/chores-utils.svg)](https://www.npmjs.com/package/chores-utils)
-[![GitHub](https://img.shields.io/github/license/YOUR_USERNAME/chores-utils)](https://github.com/YOUR_USERNAME/chores-utils/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/chores-utils)](https://github.com/YOUR_USERNAME/chores-utils/stargazers)
+[![GitHub](https://img.shields.io/github/license/levidang306/chores-utils)](https://github.com/levidang306/chores-utils/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/levidang306/chores-utils)](https://github.com/levidang306/chores-utils/stargazers)
 [![npm downloads](https://img.shields.io/npm/dm/chores-utils.svg)](https://www.npmjs.com/package/chores-utils)
 
 A comprehensive collection of TypeScript utility functions to automate common programming tasks and simplify your development workflow.
 
 <p align="center">
-  <a href="https://github.com/sponsors/YOUR_USERNAME">
+  <a href="https://github.com/levidang306/chores-utils/blob/main/SPONSOR.md">
     <img src="https://img.shields.io/badge/Sponsor-💖-pink.svg" alt="Sponsor">
   </a>
-  <a href="https://ko-fi.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Ko--fi-Support-blue.svg" alt="Ko-fi">
+  <a href="https://github.com/levidang306/chores-utils">
+    <img src="https://img.shields.io/badge/⭐-Star_on_GitHub-yellow.svg" alt="Star on GitHub">
   </a>
 </p>
 
@@ -686,7 +686,7 @@ MIT © levidang306
 
 ## Contributing
 
-Contributions are welcome! Please read our [Contributing Guide](https://github.com/YOUR_USERNAME/chores-utils/blob/main/CONTRIBUTING.md) for details on:
+Contributions are welcome! Please read our [Contributing Guide](https://github.com/levidang306/chores-utils/blob/main/CONTRIBUTING.md) for details on:
 
 - Reporting bugs
 - Suggesting features
@@ -697,9 +697,21 @@ Contributions are welcome! Please read our [Contributing Guide](https://github.c
 
 If you find this package helpful, consider:
 
-- ⭐ [Starring the repository](https://github.com/YOUR_USERNAME/chores-utils)
-- 💖 [Sponsoring the project](https://github.com/sponsors/YOUR_USERNAME)
-- 🐛 [Reporting issues](https://github.com/YOUR_USERNAME/chores-utils/issues)
-- 📖 [Contributing](https://github.com/YOUR_USERNAME/chores-utils/blob/main/CONTRIBUTING.md)
+- ⭐ [Starring the repository](https://github.com/levidang306/chores-utils)
+- 💖 [Sponsoring the project](https://github.com/levidang306/chores-utils/blob/main/SPONSOR.md) - Support via Techcombank
+- 🐛 [Reporting issues](https://github.com/levidang306/chores-utils/issues)
+- 📖 [Contributing](https://github.com/levidang306/chores-utils/blob/main/CONTRIBUTING.md)
 
-For questions or support, please [open an issue](https://github.com/YOUR_USERNAME/chores-utils/issues).
+For questions or support, please [open an issue](https://github.com/levidang306/chores-utils/issues).
+
+---
+
+### 💰 Sponsor via Bank Transfer
+
+If this library is useful to you, please consider supporting development:
+
+**Bank**: Techcombank  
+**Account**: DANG QUANG NHAT LINH  
+**Number**: 3006 2002 36
+
+See [SPONSOR.md](./SPONSOR.md) for QR code and more details.
