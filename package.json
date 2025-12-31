@@ -29,20 +29,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/chores-utils.git"
+    "url": "git+https://github.com/levidang306/chores-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/chores-utils/issues"
+    "url": "https://github.com/levidang306/chores-utils/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/chores-utils#readme",
+  "homepage": "https://github.com/levidang306/chores-utils#readme",
   "funding": [
     {
       "type": "github",
-      "url": "https://github.com/sponsors/YOUR_USERNAME"
+      "url": "https://github.com/sponsors/levidang306"
     },
     {
       "type": "ko-fi",
-      "url": "https://ko-fi.com/YOUR_USERNAME"
+      "url": "https://ko-fi.com/levidang306"
     }
   ]
 }
