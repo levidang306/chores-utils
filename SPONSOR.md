@@ -11,7 +11,7 @@ If you find this library useful, you can support via bank transfer:
 **Account Name**: DANG QUANG NHAT LINH  
 **Account Number**: 3006 2002 36
 
-<img src="./sponsor-qr.png" alt="Sponsor QR Code" width="300">
+<img src="./publish/donate.jpeg" alt="Sponsor QR Code" width="300">
 
 *Scan the QR code with your banking app to make a donation*
 
