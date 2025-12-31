@@ -1,0 +1,48 @@
+{
+  "name": "chores-utils",
+  "version": "1.0.0",
+  "description": "A collection of utility functions to automate common household and programming chores.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils",
+    "chores",
+    "automation",
+    "helpers",
+    "typescript",
+    "utilities"
+  ],
+  "author": "levidang306",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/chores-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/chores-utils/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/chores-utils#readme",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/YOUR_USERNAME"
+    },
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/YOUR_USERNAME"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+src/
+tsconfig.json
+.gitignore
+*.test.ts
+coverage/
+.vscode/
+node_modules/
+*.log
