@@ -1,7 +1,7 @@
 {
   "name": "chores-utils",
   "version": "1.0.2",
-  "description": "A collection of utility functions to automate common household and programming chores.",
+  "description": "TypeScript utility library with 70+ functions for string, array, object, date manipulation, validation, async operations, and number formatting. Zero dependencies, fully typed, tree-shakeable.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,14 +10,36 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "utils",
-    "chores",
-    "automation",
-    "helpers",
     "typescript",
-    "utilities"
+    "utilities",
+    "utils",
+    "helpers",
+    "string-utils",
+    "array-utils",
+    "object-utils",
+    "date-utils",
+    "validation",
+    "async",
+    "debounce",
+    "throttle",
+    "camelcase",
+    "kebab-case",
+    "deep-clone",
+    "deep-merge",
+    "chunk",
+    "flatten",
+    "type-safe",
+    "zero-dependencies",
+    "tree-shakeable",
+    "functional",
+    "lodash-alternative",
+    "ramda-alternative"
   ],
-  "author": "levidang306",
+  "author": {
+    "name": "Levi Dang",
+    "email": "levidang306@gmail.com",
+    "url": "https://github.com/levidang306"
+  },
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.3.3"

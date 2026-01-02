@@ -1,11 +1,15 @@
 # chores-utils
 
+> **TypeScript utility library with 70+ functions for string manipulation, array operations, object handling, date formatting, validation, async utilities, and number formatting. Zero dependencies, fully typed, and tree-shakeable.**
+
 [![npm version](https://img.shields.io/npm/v/chores-utils.svg)](https://www.npmjs.com/package/chores-utils)
 [![GitHub](https://img.shields.io/github/license/levidang306/chores-utils)](https://github.com/levidang306/chores-utils/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/levidang306/chores-utils)](https://github.com/levidang306/chores-utils/stargazers)
 [![npm downloads](https://img.shields.io/npm/dm/chores-utils.svg)](https://www.npmjs.com/package/chores-utils)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/chores-utils)](https://bundlephobia.com/package/chores-utils)
 
-A comprehensive collection of TypeScript utility functions to automate common programming tasks and simplify your development workflow.
+A comprehensive collection of TypeScript utility functions to automate common programming tasks and simplify your development workflow. Perfect alternative to Lodash, Ramda, or date-fns with modern ES2020+ features.
 
 <p align="center">
   <a href="https://github.com/levidang306/chores-utils/blob/main/SPONSOR.md">
