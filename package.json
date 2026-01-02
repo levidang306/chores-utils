@@ -1,6 +1,6 @@
 {
   "name": "chores-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TypeScript utility library with 70+ functions for string, array, object, date manipulation, validation, async operations, and number formatting. Zero dependencies, fully typed, tree-shakeable.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
